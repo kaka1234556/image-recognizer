@@ -1,0 +1,18 @@
+body{
+    color:blueviolet;
+    background-color:pink;
+    }
+    .coading{
+    font-size: 30px;
+    width:80%;
+    }
+    #camera{
+    width:350px;
+    height:300px;
+    border: dashed 2px slateblue;
+    }
+    .items{
+    font-size: 28px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:whitesmoke;
+    }
